@@ -19,14 +19,14 @@ This was my first project for front end design. It was made without any CSS fram
 
 Bellow this text, there are some pictures of a website.<br>
 *Home page*
-![Naslovna](https://user-images.githubusercontent.com/35956934/77862113-aff46600-7219-11ea-9463-c68c885fc188.jpg)<br>
-*Registration page*
+![Naslovna](https://user-images.githubusercontent.com/35956934/77862113-aff46600-7219-11ea-9463-c68c885fc188.jpg)
+<br><br>*Registration page*
 ![Registracija](https://user-images.githubusercontent.com/35956934/77862026-217fe480-7219-11ea-9959-1d7f1af79543.jpg)
-*Login page*
+<br><br>*Login page*
 ![Prijava](https://user-images.githubusercontent.com/35956934/77862027-22b11180-7219-11ea-885d-ab1111e077c0.jpg)
-*Multimedia page*
+<br><br>*Multimedia page*
 ![Multimedia](https://user-images.githubusercontent.com/35956934/77862031-25ac0200-7219-11ea-8c4e-4a9b7e7be4ae.jpg)
-*Input user data page*
+<br><br>*Input user data page*
 ![Obrazac](https://user-images.githubusercontent.com/35956934/77862033-280e5c00-7219-11ea-9bb3-c6ea1519fc11.jpg)
-*Show user data page*
+<br><br>*Show user data page*
 ![Popis](https://user-images.githubusercontent.com/35956934/77862034-29d81f80-7219-11ea-8350-437a7e252867.jpg)
